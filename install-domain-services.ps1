@@ -1,1 +1,1 @@
-Install-WindowsFeature AD-Domain-Services
+Add-WindowsFeature AD-Domain-Services
